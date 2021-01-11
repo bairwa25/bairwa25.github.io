@@ -1,13 +1,12 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Ajay Bairwa"
+email: bairwaajay770@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm Ajay Bairwa, pursuing Electrical Engg. from Chartered Institute of Technology. Currently I'm Learning Front-End Web Development. 
+  I'm Tech enthusiast and love to learn new skills for making better version of myself😊
 baseurl: "/" 
-url: "/portfolio-template" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+url: "https://bairwa25.github.io/" 
+twitter_username: bairwaa25
+github_username:  bairwa25
 
 sass:
   sass_dir: _sass
