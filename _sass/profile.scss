@@ -17,7 +17,12 @@
         margin-right: auto;
         display: block;        
         padding: 20px;
+        transition: .8s ease-in-out;
     }
+    
+img:hover {
+    transform: rotate(360deg) scale(1.5);
+}
     
     .profile-picture {
         margin-bottom: 30px;
